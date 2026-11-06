@@ -21,5 +21,5 @@ Use [GitHub Issues](https://github.com/vacterro/sairelay/issues) for durable rep
 
 <!-- VACTERRO_SUPPORT:BEGIN -->
 ---
-<sub>If the broader project ecosystem is useful to you, optional support: [Buy Me a Coffee](https://buymeacoffee.com/vacuum34) · [Boosty](https://boosty.to/vacuum34/donate) · [PayPal](https://paypal.me/AlexNelin) · [other ways](https://github.com/vacterro/vacterro/blob/main/SUPPORT.md)</sub>
+<sub>If the broader project ecosystem is useful to you, optional support: [Buy Me a Coffee](https://buymeacoffee.com/vacuum34) · [Boosty](https://boosty.to/vacuum34/donate) · [PayPal](https://paypal.me/AlexNelin) · [Revolut](https://revolut.me/alexnf7xb) · [other ways](https://github.com/vacterro/vacterro/blob/main/SUPPORT.md)</sub>
 <!-- VACTERRO_SUPPORT:END -->
